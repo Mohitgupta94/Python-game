@@ -1,0 +1,6 @@
+ RULES:
+ 1)There is a devil in each row, either at position 1 or 2.
+ 2)Guess it's position in last row, entering either 1 or 2.
+ 3)If you guess it right, you go one level up.
+ 4)If you guess it wrong, another row containing a devil appears.
+ 5)Happy playing.
